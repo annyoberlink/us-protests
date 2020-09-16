@@ -1,0 +1,16 @@
+h1 {
+    text-transform: uppercase;
+}
+
+p {
+    font-family: Georgia;
+}
+
+figcaption {
+    font: Georgia;
+    color: gray;
+}
+
+footer {
+    color: gray;
+}
